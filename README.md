@@ -152,7 +152,7 @@ http://localhost:5173
 
 ## Demo Online
 
-🔗 Demo: (link do Netlify)
+🔗 Demo: (https://safecell-dashboard.netlify.app/)
 
 
 ## Screenshots
